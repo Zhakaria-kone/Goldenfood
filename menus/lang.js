@@ -210,7 +210,7 @@ const translations = {
     samandje:"(grouper, onion, tomato, pepper, prawns)",
     sole_meuniere:"SOLE MEUNIÈRE/APPLE PARSLEY",
     sole_braise:"BRAISED FLOOR",
-    sole_frit:"FRIED SOL",
+    sol_frit:"FRIED SOL",
     fillet_merou:"GROUPER FILLET",
     langouste:"GRILLED COBSTER WITH GRIBISHE SAUCE/POTATO-FRIES",
     petit_capi:"SMALL CAPTAIN",
