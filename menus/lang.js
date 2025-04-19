@@ -130,7 +130,7 @@ const translations = {
     desc_akpessi: "( Steamed yam, cumbled turn or mackerel, local eggplant )",
     title_gambas: "FRIED PAWN GAMBAS WITH CRUNCHY VEGETABLES",
     desc_gambas: "( Gambas, carrot, zucchini, pepper, onion, tomato )",
-    title_alloco: "ALOCO",
+    title_alloco: "ALLOCO",
   title_attieke: "ATTIEKE",
   title_riz: "WHITE RICE",
   title_pomme_sautee: "SAUTÉED POTATOES",
