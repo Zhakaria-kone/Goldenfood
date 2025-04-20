@@ -216,7 +216,7 @@ const translations = {
     petit_capi:"SMALL CAPTAIN",
     calalar_saute:"SAUTED SQUID WITH FINE HERBS/SAUTEED VEGETABLE",
     calamar:"SQUID",
-    gogot:"LEG OF LAMB",
+    gigot:"LEG OF LAMB",
     fillet_boeuf:"FILLET OF BEEF/ROSETTE OF BEEF",
     smv:"(WINE MERCHAND SAUCE,SAUTE VEGETABLE)",
     souris_d_agneau:"LAMB SHANK WITH BORDELAISE",
